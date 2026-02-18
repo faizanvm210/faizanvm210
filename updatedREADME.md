@@ -14,23 +14,26 @@
 
 🎯 Goal: Become a production-ready backend engineer
 
-⚡ I believe in: "Build. Break. Fix. Repeat."
+⚡ Belief: "Build. Break. Fix. Repeat."
 
 🛠️ Tech Stack
-👨‍💻 Programming Languages
+1️⃣ Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,python,javascript,sql" /> </p>
-🌐 Frontend Development
+2️⃣ Frontend Development
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,react" /> </p>
-⚙️ Backend Development
+3️⃣ Backend Development
 <p align="left"> <img src="https://skillicons.dev/icons?i=spring,nodejs,express" /> </p>
-🗄️ Databases
+4️⃣ Databases
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
-🔧 Tools & Platforms
+5️⃣ Tools & Platforms
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" /> </p>
 🚀 Featured Project
 🛒 DigiMarket – Farmer to Consumer Marketplace
 
+Description:
 A full-stack Java application connecting farmers directly with consumers.
+
+Core Features:
 
 🔐 Role-based Authentication
 
@@ -57,5 +60,19 @@ A full-stack Java application connecting farmers directly with consumers.
 🧠 Developer Mindset
 
 Consistency > Motivation
+
 Skill > Hype
+
 Projects > Certificates
+
+This now looks:
+
+Structured
+
+Clean
+
+Easy to scan
+
+Recruiter-friendly
+
+If you want, I can now make it even more premium with:
