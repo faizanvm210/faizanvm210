@@ -1,78 +1,108 @@
-👋 Hi, I'm V M Faizan
-💻 Full Stack Developer | Java Enthusiast | Problem Solver
+👨‍💻 V M Faizan
+🚀 Backend-Oriented Full Stack Developer
 
-🚀 Building real-world projects consistently
 📍 India
 
-🚀 About Me
+🧾 Profile
 
-🔭 Currently building Full Stack Web Applications
+I design and build structured, backend-focused applications with clear architecture and real-world use cases.
+Currently strengthening ☕ Java, 🌱 Spring Boot, and 🧠 system design fundamentals.
 
-🌱 Learning Java Full Stack Development
+🛠️ Core Technologies
+💻 Languages
 
-🧠 Exploring Spring Boot & Backend Architecture
+☕ Java · 🟨 JavaScript · 🐍 Python · 🗄️ SQL
 
-🎯 Goal: Become a production-ready backend engineer
+⚙️ Backend
 
-⚡ Belief: "Build. Break. Fix. Repeat."
+🌱 Spring Boot · 🟢 Node.js · 🚂 Express
 
-🛠️ Tech Stack
-1️⃣ Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,javascript,sql" /> </p>
-2️⃣ Frontend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,react" /> </p>
-3️⃣ Backend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=spring,nodejs,express" /> </p>
-4️⃣ Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
-5️⃣ Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" /> </p>
-🚀 Featured Project
-🛒 DigiMarket – Farmer to Consumer Marketplace
+🎨 Frontend
 
-Description:
-A full-stack Java application connecting farmers directly with consumers.
+⚛️ React · 🌐 HTML · 🎨 CSS
 
-Core Features:
+🗃️ Databases
 
-🔐 Role-based Authentication
+🐬 MySQL · 🍃 MongoDB
 
-🛍️ Product Management System
+🧰 Tools
 
-📦 Order Handling
+🔧 Git · 🐙 GitHub · 💡 IntelliJ · 🖥️ VS Code · 📬 Postman
 
-🛠️ Admin Controls
+🚀 Selected Projects
+🌾 AgriLink – Farm to Consumer Platform
 
-👉 Add your repository link here
+☕ Java-Based Marketplace System
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faizanvm210&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanvm210&theme=tokyonight" /> </p>
-📫 Connect With Me
+A role-based agricultural marketplace application enabling direct transactions between farmers and consumers.
+
+🔹 Architecture Highlights
+
+🔐 Multi-role authentication system
+
+📦 Product management module
+
+🔄 Order lifecycle management
+
+🧠 Backend-driven business logic
+
+🗄️ Structured database interaction
+
+🔗 https://github.com/faizanvm210/AgriLink-farm-to-consumer
+
+🚔 Crime Record Management System
+
+☕ Java Backend Information System
+
+A structured crime data management application built for maintaining digital FIR, suspect, and case records.
+
+🔹 System Highlights
+
+📝 Case & FIR registration module
+
+🧾 Evidence tracking system
+
+🔄 Status workflow management
+
+🧠 Organized backend logic and data handling
+
+🔗 https://github.com/faizanvm210/CRIME-RECORD-MANAGEMENT-SYSTEM
+
+🧠 AI Mood Journal
+
+🎨 Frontend-Focused Mood Tracking Application
+
+A lightweight mood logging interface for tracking emotional patterns over time.
+
+🔹 Highlights
+
+📅 Daily logging system
+
+✨ Clean UI implementation
+
+🟨 JavaScript-driven state handling
+
+🔗 https://github.com/faizanvm210/AI-MOOD-JOURNAL
+
+📊 GitHub Metrics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faizanvm210&show_icons=true&theme=github_dark&hide_border=true" /> </p>
+📬 Contact
 
 📧 Email: faizanvm127@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/v-m-faizan-m210/
+💼 LinkedIn: linkedin.com/in/v-m-faizan-m210
+🐦 X: x.com/faizanvm210
 
-🐦 X: https://x.com/faizanvm210
+🧠 Development Approach
 
-📸 Instagram: https://www.instagram.com/faizu_210/?hl=en
+I focus on:
 
-🧠 Developer Mindset
+🧼 Clean backend logic
 
-Consistency > Motivation
+🗂️ Structured code organization
 
-Skill > Hype
+🏗️ Practical system design
 
-Projects > Certificates
+📈 Continuous improvement through building
 
-This now looks:
-
-Structured
-
-Clean
-
-Easy to scan
-
-Recruiter-friendly
-
-If you want, I can now make it even more premium with:
+If you want next level, fizzzz — I can:
